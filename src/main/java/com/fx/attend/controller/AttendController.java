@@ -6,4 +6,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("attend")
 public class AttendController {
+
+    @RequestMapping
+    public String toAttend(){
+        return "attend";
+    }
 }

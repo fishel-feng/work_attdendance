@@ -131,7 +131,7 @@
             </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li class="active"><a href="#"><i class="fa"></i> 打卡记录</a></li>
+                        <li class="active"><a href="$rc.contextPath/attend"><i class="fa"></i> 打卡记录</a></li>
                         <li><a href="#"><i class="fa"></i> 审批记录</a></li>
                     </ul>
                 </li>
